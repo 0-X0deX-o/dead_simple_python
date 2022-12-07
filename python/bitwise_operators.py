@@ -1,0 +1,6 @@
+print(9 & 8)
+print(9 | 8)
+print(9 ^ 8)
+print(~8)
+print(1 << 3)
+print(8 >> 3)
